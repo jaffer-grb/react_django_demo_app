@@ -4,4 +4,4 @@ services:
   web:
     image: syedjaffer/node-app
     ports:
-      - "8000:8001"
+      - "8001:8001"
